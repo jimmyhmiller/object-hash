@@ -46,6 +46,5 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "main": "./index.js",
-  "browser": "./dist/object_hash.js"
+  "main": "./index.js"
 }
